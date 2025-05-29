@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png.png" alt="Deepak Kumar Saw - Frontend Developer" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Deepak Kumar Saw</h1>
 <h3 align="center">A passionate Frontend Web Developer from India 🇮🇳</h3>
 
